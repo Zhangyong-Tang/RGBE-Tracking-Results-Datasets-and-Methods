@@ -51,7 +51,94 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> PR</td>
     	<td> SR</td>
     </tr>
-    
+    <tr>
+    	<td> AMTTrack</td>
+    	<td>Arxiv'2024</td>
+	<td>61</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> </td>
+    	<td> 57.2</td>
+    	<td> 45.5</td>
+    </tr>
+    <tr>
+    	<td> Mamba-FETrack</td>
+    	<td>Arxiv'2024</td>
+	<td>24</td>
+    	<td> 91.0</td>
+    	<td> 58.7</td>
+    	<td> </td>
+   	<td> </td>
+    	<td> 55.6</td>
+    	<td> 43.5</td>
+    </tr>
+    <tr>
+    	<td> MMHT</td>
+    	<td>Arxiv'2024</td>
+	<td>21</td>
+    	<td> 93.6</td>
+    	<td> 63.0</td>
+    	<td> 73.3</td>
+   	<td> 55.1</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> TENet</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 76.5</td>
+   	<td> 60.1</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> HRCEUTrack</td>
+    	<td>ICCV'2023</td>
+	<td></td>
+    	<td> 96.2</td>
+    	<td> 68.5</td>
+    	<td> </td>
+   	<td> </td>
+    	<td> 56.4</td>
+    	<td> 44.8</td>
+    </tr>
+    <tr>
+    	<td> AFNet</td>
+    	<td>CVPR'2023</td>
+	<td>36.21</td>
+    	<td> 87.0</td>
+    	<td> 58.4</td>
+    	<td> 59.3</td>
+   	<td> 44.5</td>
+    	<td> 36.6</td>
+    	<td> 28.9</td>
+    </tr>
+    <tr>
+    	<td> CEUTrack</td>
+    	<td>Arxiv'2023</td>
+	<td>75</td>
+    	<td> 84.5</td>
+    	<td> 55.6</td>
+    	<td> 69.1</td>
+   	<td> 53.1</td>
+    	<td> 56.4</td>
+    	<td> 44.9</td>
+    </tr>
+    <tr>
+    	<td> ViPT</td>
+    	<td>CVPR'2023</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 59.2</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
 </table>
 
 <table>
@@ -72,6 +159,61 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> PR</td>
     	<td> NPR</td>
     	<td> SR</td>
+    </tr>
+    <tr>
+    	<td> MMHT</td>
+    	<td>Arxiv'2024</td>
+	<td>21</td>
+    	<td> 74.0</td>
+    	<td> </td>
+    	<td> 65.8</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> TENet</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td> 76.8</td>
+    	<td> 75.3</td>
+    	<td> 68.4</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> HRCEUTrack</td>
+    	<td>ICCV'2023</td>
+	<td></td>
+    	<td> 73.8</td>
+    	<td> 71.9</td>
+    	<td> 65.0</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> CEUTrack</td>
+    	<td>Arxiv'2023</td>
+	<td>75</td>
+    	<td> 76.0</td>
+    	<td> 74.9</td>
+    	<td> 62.7</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> ViPT</td>
+    	<td>CVPR'2023</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 66.0</td>
+    	<td> 64.9</td>
+    	<td> 54.6</td>
     </tr>
    </table>
 
