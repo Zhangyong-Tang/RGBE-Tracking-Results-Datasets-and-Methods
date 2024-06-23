@@ -52,6 +52,39 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
     <tr>
+    	<td> OneTrack</td>
+    	<td>CVPR'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 76.7</td>
+   	<td> 60.8</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> UnTrack</td>
+    	<td>CVPR'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 76.3</td>
+   	<td> 59.7</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> SDSTrack</td>
+    	<td>CVPR'2024</td>
+	<td>20.86</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 76.7</td>
+   	<td> 59.7</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> XTrack</td>
     	<td>Arxiv'2024</td>
 	<td></td>
@@ -59,6 +92,39 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> </td>
     	<td> 75.6</td>
    	<td> 59.1</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> KSTrack</td>
+    	<td>TCSVT'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 70.3</td>
+   	<td> 57.2</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> SeqTrackv2</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 80.0</td>
+   	<td> 63.4</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> MINet</td>
+    	<td>IVC'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 74.1</td>
+   	<td> 59.4</td>
     	<td> </td>
     	<td> </td>
     </tr>
@@ -145,8 +211,19 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td></td>
     	<td> </td>
     	<td> </td>
-    	<td> </td>
+    	<td> 75.8</td>
    	<td> 59.2</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> ProTrack</td>
+    	<td>ACMMM'2022</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 61.7</td>
+   	<td> 47.4</td>
     	<td> </td>
     	<td> </td>
     </tr>
