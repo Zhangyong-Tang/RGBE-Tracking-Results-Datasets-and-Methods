@@ -52,6 +52,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
     <tr>
+    	<td> XTrack</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 75.6</td>
+   	<td> 59.1</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> AMTTrack</td>
     	<td>Arxiv'2024</td>
 	<td>61</td>
