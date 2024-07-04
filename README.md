@@ -52,6 +52,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
     <tr>
+    	<td> eMoE-Tracker</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 76.4</td>
+   	<td> 61.3</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> OneTrack</td>
     	<td>CVPR'2024</td>
 	<td></td>
@@ -247,6 +258,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> PR</td>
     	<td> NPR</td>
     	<td> SR</td>
+    </tr>
+    <tr>
+    	<td> eMoE-Tracker</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td> 79.9</td>
+    	<td> 82.3</td>
+    	<td> 67.1</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
     </tr>
     <tr>
     	<td> MMHT</td>
