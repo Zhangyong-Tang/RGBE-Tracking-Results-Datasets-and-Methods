@@ -152,7 +152,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
     </tr>
     <tr>
     	<td> Mamba-FETrack</td>
-    	<td>Arxiv'2024</td>
+    	<td>PRCV'2024</td>
 	<td>24</td>
     	<td> 91.0</td>
     	<td> 58.7</td>
