@@ -52,6 +52,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
     <tr>
+    	<td> MixRGBX</td>
+    	<td>Neurocomputing'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 77.4</td>
+   	<td> 60.2</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> eMoE-Tracker</td>
     	<td>Arxiv'2024</td>
 	<td></td>
