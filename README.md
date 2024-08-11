@@ -52,6 +52,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
     <tr>
+    	<td> SiamEFT</td>
+    	<td>Frontiers in Neuroscience'2024</td>
+	<td>109</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 62.4</td>
+   	<td> 45.6</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> MixRGBX</td>
     	<td>Neurocomputing'2024</td>
 	<td></td>
@@ -269,6 +280,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> PR</td>
     	<td> NPR</td>
     	<td> SR</td>
+    </tr>
+    <tr>
+    	<td> SiamEFT</td>
+    	<td>Frontiers in Neuroscience'2024</td>
+	<td>109</td>
+    	<td> 69.9</td>
+    	<td> </td>
+    	<td> 57.4</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
     </tr>
     <tr>
     	<td> eMoE-Tracker</td>
