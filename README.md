@@ -38,6 +38,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	      <th colspan="1"></th> 
 	      <th colspan="1"></th> 
         <th colspan="2">FE108</th> 
+        <th colspan="2">FE240z</th> 
         <th colspan="2">VisEvent</th> 
         <th colspan="2">FELT</th>
     </tr>
@@ -50,12 +51,16 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> PR</td>
    	  <td> SR</td>
     	<td> PR</td>
+   	  <td> SR</td>
+    	<td> PR</td>
     	<td> SR</td>
     </tr>
     <tr>
     	<td> DS-MESA</td>
     	<td>PRCV'2024</td>
 	<td></td>
+    	<td> </td>
+   	<td> </td>
     	<td>91.9</td>
     	<td>63.8</td>
     	<td> </td>
@@ -69,6 +74,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td>109</td>
     	<td> </td>
     	<td> </td>
+    	<td> </td>
+    	<td> </td>
     	<td> 62.4</td>
    	<td> 45.6</td>
     	<td> </td>
@@ -78,6 +85,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> MixRGBX</td>
     	<td>Neurocomputing'2024</td>
 	<td></td>
+    	<td> </td>
+    	<td> </td>
     	<td> </td>
     	<td> </td>
     	<td> 77.4</td>
@@ -91,6 +100,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td></td>
     	<td> </td>
     	<td> </td>
+    	<td> </td>
+    	<td> </td>
     	<td> 76.4</td>
    	<td> 61.3</td>
     	<td> </td>
@@ -100,6 +111,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> OneTrack</td>
     	<td>CVPR'2024</td>
 	<td></td>
+    	<td> </td>
+    	<td> </td>
     	<td> </td>
     	<td> </td>
     	<td> 76.7</td>
@@ -113,6 +126,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td></td>
     	<td> </td>
     	<td> </td>
+    	<td> </td>
+    	<td> </td>
     	<td> 76.3</td>
    	<td> 59.7</td>
     	<td> </td>
@@ -122,6 +137,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SDSTrack</td>
     	<td>CVPR'2024</td>
 	<td>20.86</td>
+    	<td> </td>
+    	<td> </td>
     	<td> </td>
     	<td> </td>
     	<td> 76.7</td>
@@ -135,6 +152,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td></td>
     	<td> </td>
     	<td> </td>
+    	<td> </td>
+    	<td> </td>
     	<td> 75.6</td>
    	<td> 59.1</td>
     	<td> </td>
@@ -144,6 +163,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> KSTrack</td>
     	<td>TCSVT'2024</td>
 	<td></td>
+    	<td> </td>
+    	<td> </td>
     	<td> </td>
     	<td> </td>
     	<td> 70.3</td>
@@ -157,6 +178,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td></td>
     	<td> </td>
     	<td> </td>
+    	<td> </td>
+    	<td> </td>
     	<td> 80.0</td>
    	<td> 63.4</td>
     	<td> </td>
@@ -166,6 +189,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> MINet</td>
     	<td>IVC'2024</td>
 	<td></td>
+    	<td> </td>
+    	<td> </td>
     	<td> </td>
     	<td> </td>
     	<td> 74.1</td>
@@ -180,6 +205,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> </td>
     	<td> </td>
     	<td> </td>
+    	<td> </td>
+    	<td> </td>
    	<td> </td>
     	<td> 57.2</td>
     	<td> 45.5</td>
@@ -191,6 +218,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> 91.0</td>
     	<td> 58.7</td>
     	<td> </td>
+    	<td> </td>
+    	<td> </td>
    	<td> </td>
     	<td> 55.6</td>
     	<td> 43.5</td>
@@ -201,6 +230,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td>21</td>
     	<td> 93.6</td>
     	<td> 63.0</td>
+    	<td> </td>
+    	<td> </td>
     	<td> 73.3</td>
    	<td> 55.1</td>
     	<td> </td>
@@ -210,6 +241,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> TENet</td>
     	<td>Arxiv'2024</td>
 	<td></td>
+    	<td> </td>
+    	<td> </td>
     	<td> </td>
     	<td> </td>
     	<td> 76.5</td>
@@ -224,6 +257,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> 96.2</td>
     	<td> 68.5</td>
     	<td> </td>
+    	<td> </td>
+    	<td> </td>
    	<td> </td>
     	<td> 56.4</td>
     	<td> 44.8</td>
@@ -232,6 +267,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> AFNet</td>
     	<td>CVPR'2023</td>
 	<td>36.21</td>
+    	<td> </td>
+    	<td> </td>
     	<td> 87.0</td>
     	<td> 58.4</td>
     	<td> 59.3</td>
@@ -245,6 +282,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td>75</td>
     	<td> 84.5</td>
     	<td> 55.6</td>
+    	<td> </td>
+    	<td> </td>
     	<td> 69.1</td>
    	<td> 53.1</td>
     	<td> 56.4</td>
@@ -256,6 +295,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td></td>
     	<td> </td>
     	<td> </td>
+    	<td> </td>
+    	<td> </td>
     	<td> 75.8</td>
    	<td> 59.2</td>
     	<td> </td>
@@ -265,6 +306,8 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> ProTrack</td>
     	<td>ACMMM'2022</td>
 	<td></td>
+    	<td> </td>
+    	<td> </td>
     	<td> </td>
     	<td> </td>
     	<td> 61.7</td>
