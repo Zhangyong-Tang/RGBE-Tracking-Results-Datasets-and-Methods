@@ -56,6 +56,19 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
     <tr>
+    	<td> EMTrack</td>
+    	<td>TCSVT'2024</td>
+	<td>29.1/CPU</td>
+    	<td> </td>
+   	<td> </td>
+    	<td></td>
+    	<td></td>
+    	<td>72.4</td>
+   	<td>58.4</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> DS-MESA</td>
     	<td>PRCV'2024</td>
 	<td></td>
