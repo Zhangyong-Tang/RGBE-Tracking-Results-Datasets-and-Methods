@@ -60,6 +60,19 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
     <tr>
+    	<td> SUTrack</td>
+    	<td>AAAI'2025</td>
+	<td></td>
+    	<td> </td>
+   	<td> </td>
+    	<td></td>
+    	<td></td>
+    	<td>80.9</td>
+   	<td>64.0</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> EMTrack</td>
     	<td>TCSVT'2024</td>
 	<td>29.1/CPU</td>
