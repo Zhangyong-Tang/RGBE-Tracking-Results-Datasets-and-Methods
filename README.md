@@ -46,7 +46,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
         <th colspan="2">VisEvent</th> 
         <th colspan="2">FELT</th>
     </tr>
-    <tr>
+    <tr>C
     	<td> Methods</td>
     	<td>Venue</td>
 	    <td>Speed</td>
@@ -69,6 +69,19 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td></td>
     	<td>80.9</td>
    	<td>64.0</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> CSAM</td>
+    	<td>NIPS'2024</td>
+	<td>53/3090</td>
+    	<td>97.1</td>
+   	<td>70.5</td>
+    	<td></td>
+    	<td></td>
+    	<td>81.6</td>
+   	<td>65.9</td>
     	<td> </td>
     	<td> </td>
     </tr>
@@ -365,6 +378,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> PR</td>
     	<td> NPR</td>
     	<td> SR</td>
+    </tr>
+	    <tr>
+    	<td> CSAM</td>
+    	<td>NIPS'2024</td>
+	<td>53/3090</td>
+    	<td> 77.7</td>
+    	<td> 74.8</td>
+    	<td> 68.1</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
     </tr>
     <tr>
     	<td> DS-MESA</td>
