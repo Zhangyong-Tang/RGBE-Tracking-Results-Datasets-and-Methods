@@ -60,6 +60,19 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
     <tr>
+    	<td> CMDTrack</td>
+    	<td>TPAMI'2025</td>
+	<td>67/2080Ti</td>
+    	<td> </td>
+   	<td> </td>
+    	<td></td>
+    	<td></td>
+    	<td>75.8</td>
+   	<td>61.3</td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
     	<td> HPL</td>
     	<td>TCSVT'2025</td>
 	<td>21.47/3090</td>
@@ -404,6 +417,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> PR</td>
     	<td> NPR</td>
     	<td> SR</td>
+    </tr>
+	    <tr>
+     	<td> CMDTrack</td>
+    	<td>TPAMI'2025</td>
+	<td>67/2080Ti</td>
+    	<td>74.8</td>
+    	<td></td>
+    	<td> 65.7</td>
+    	<td></td>
+    	<td> </td>
+    	<td> </td>
     </tr>
 	    <tr>
     	<td> HPL</td>
