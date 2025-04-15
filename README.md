@@ -60,6 +60,19 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
     <tr>
+    	<td> SNNPTrack</td>
+    	<td>ICASSP'2025</td>
+	<td></td>
+    	<td> </td>
+   	<td> </td>
+    	<td></td>
+    	<td></td>
+    	<td>76.9</td>
+   	<td>59.8</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> SUTrack</td>
     	<td>AAAI'2025</td>
 	<td></td>
@@ -378,6 +391,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> PR</td>
     	<td> NPR</td>
     	<td> SR</td>
+    </tr>
+	    <tr>
+    	<td> SNNPTrack</td>
+    	<td>ICASSP'2025</td>
+	<td></td>
+    	<td>74.8</td>
+    	<td> </td>
+    	<td> 66.8</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
     </tr>
 	    <tr>
     	<td> CSAM</td>
