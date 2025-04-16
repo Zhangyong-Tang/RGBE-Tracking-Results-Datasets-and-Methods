@@ -99,6 +99,19 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> </td>
     </tr>
     <tr>
+    	<td> STTrack</td>
+    	<td>AAAI'2025</td>
+	<td>35.5/4090</td>
+    	<td> </td>
+   	<td> </td>
+    	<td></td>
+    	<td></td>
+    	<td>78.6</td>
+   	<td>61.9</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> SUTrack</td>
     	<td>AAAI'2025</td>
 	<td></td>
