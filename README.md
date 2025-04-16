@@ -60,6 +60,19 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
     <tr>
+    	<td> LightFC-X</td>
+    	<td>Arxiv'2025</td>
+	<td>81/A6000</td>
+    	<td> </td>
+   	<td> </td>
+    	<td></td>
+    	<td></td>
+    	<td>69.1</td>
+   	<td>53.2</td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
     	<td> CMDTrack</td>
     	<td>TPAMI'2025</td>
 	<td>67/2080Ti</td>
